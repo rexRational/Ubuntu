@@ -1,0 +1,4 @@
+1) Git initial setup
+
+$ git config --global user.name "rexRational"
+$ git config --global user.email "rex@Helix.com"
