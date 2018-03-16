@@ -2,3 +2,6 @@
 
 $ git config --global user.name "rexRational"
 $ git config --global user.email "rex@Helix.com"
+
+2) default editor for Ubuntu is nano
+use <Ctrl> to invoke menus; for ex ^x => Ctrl+x
